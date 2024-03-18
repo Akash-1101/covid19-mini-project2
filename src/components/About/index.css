@@ -1,0 +1,12 @@
+.About-content-container {
+  color: white;
+  background-color: black;
+  padding: 10px;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}

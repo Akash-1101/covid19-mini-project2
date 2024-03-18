@@ -1,0 +1,14 @@
+.footer-section-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  background-color: black;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.footer-icons-sections {
+  display: flex;
+  width: 200px;
+  justify-content: space-around;
+}
